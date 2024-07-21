@@ -1,7 +1,7 @@
 # wtmp-and-btmp-read
 Perl script that is used to read the wtmp and btmp logs located in the /var/log folder.
 
-The script needs to be chown'ed to 755
+The script needs to be chmod'ed to 755
 The script is executed like this:
 
 ./script_name.pl wtmp <br>
